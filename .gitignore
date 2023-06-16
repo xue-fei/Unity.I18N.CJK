@@ -1,0 +1,9 @@
+/Library/
+/obj/
+.vsconfig
+*.sln
+*.csproj
+/.vs/
+/Logs/
+ProjectSettings/boot.config
+UserSettings/Layouts/default-2021.dwlt
