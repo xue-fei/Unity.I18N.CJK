@@ -1,0 +1,2 @@
+# Unity.I18N.CJK
+I18N.CJK to Unity WebGL GB2312
